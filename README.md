@@ -19,7 +19,7 @@ The QR code component solution is a very good project. I like it and i'm glad i'
 ### Links
 
 - Solution URL: [https://github.com/Enam123/Responsive-qr-code-solution-using-only-html-and-css-flexbox]
-- Live Site URL: [https://enam123.github.io/Responsive-qr-code-solution/]
+- Live Site URL: [[https://enam123.github.io/Responsive-qr-code-solution/](https://enam123.github.io/Responsive-qr-code-solution-using-only-html-and-css-flexbox/)]
 
 ## My process
 
